@@ -1,7 +1,5 @@
 # python-analise
 
-# projeto-leda
-
 # Comparação entre as Políticas de Cache LRU e FIFO
 
 # Objetivo do Trabalho
