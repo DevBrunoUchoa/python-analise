@@ -57,7 +57,7 @@ O foco principal é o estudo da eficiência das políticas de cache LRU e FIFO p
 .
 ├── interface.py                          # Script principal para execução dos testes
 ├── graficos/
-│   └── resultados.png		# Arquivo de imagem gerado com os gráficos de comparação dos algoritmos
+│   └── resultados.png		      # Arquivo de imagem gerado com os gráficos de comparação dos algoritmos
 └── src/
     ├── algoritmos.py                     # Implementa os algoritmos de substituição de páginas (LRU e FIFO)
     ├── geradores.py                      # Gera sequências de acesso
