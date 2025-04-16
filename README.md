@@ -78,7 +78,7 @@ Para usuários que preferem a linha de comando, siga os passos abaixo:
 1. **Clone ou baixe** este repositório:
 ```bash
 git clone https://github.com/DevBrunoUchoa/python-analise
-cd python-analise/python-analise
+cd python-analise
 ```
 
 2. **Instale as dependências**:
